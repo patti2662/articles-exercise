@@ -1,0 +1,55 @@
+.basic1 {
+  background-color: #9bd2da;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 1em;
+  color: #667173;
+  line-height: 2em;
+  padding: 5px 5px 5px 20px;
+  border: 3px solid #0b7281;
+  border-radius: 25px;
+}
+
+.basic2 {
+  background-color: #72cbbf;
+  font-family: Gill Sans, sans-serif;
+  font-size: 1.25em;
+  color: #645b4a;
+  line-height: 1em;
+  padding: 10px 10px 10px 15px;
+  border: 4px solid #376862;
+  border-radius: 5px;
+}
+
+.basic3 {
+  background-color: #f6e8bd;
+  font-family: Futura, sans-serif;
+  font-size: 1.25em;
+  color: #374486;
+  line-height: .75em;
+  padding: 20px 5px 20px 25px;
+  border: 4px solid #b0b7d8;
+  border-radius: 10px;
+}
+
+.basic4 {
+  background-color: #abbf64;
+  font-family: Courier, serif;
+  font-size: 1.5em;
+  font-style: italic;
+  color: #fff;
+  line-height: .5em;
+  padding: 0px 0px 15px 30px;
+  border: 3px dashed #f2eb82;
+  border-radius: 30px;
+}
+
+.basic5 {
+  background-color: #3968f1;
+  font-family: Garamond, serif;
+  font-size: 2em;
+  color: #eed296;
+  line-height: 1.75em;
+  padding: 0px 0px 15px 30px;
+  border: 5px solid #f25d29;
+  border-radius: 15px;
+}
